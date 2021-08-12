@@ -11,4 +11,4 @@ function solucao(primeiraLetra, segundaLetra, palavras) {
        if (nen === false) {
         console.log ("NENHUMA")
     }
-}
+} 

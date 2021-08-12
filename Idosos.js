@@ -6,4 +6,4 @@ function solucao(idade) {
         console.log ("PEGUE A FILA NORMAL")
     }
     
-}
+} 

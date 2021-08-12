@@ -10,4 +10,4 @@ function solucao(obj) {
             console.log ("INAPTA")
         }
     }
-}
+} 

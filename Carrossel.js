@@ -20,4 +20,4 @@ function solucao(sequencia) {
     
     console.log (val)
 
-}
+} 

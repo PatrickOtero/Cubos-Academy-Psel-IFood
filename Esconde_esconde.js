@@ -7,4 +7,4 @@ function solucao(numero) {
         }
     }
     
-}
+} 

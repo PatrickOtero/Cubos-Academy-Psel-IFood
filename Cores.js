@@ -19,4 +19,4 @@ function solucao(cor1, cor2) {
         console.log ("verde")
     }
 
-}
+} 

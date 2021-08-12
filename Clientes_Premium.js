@@ -17,4 +17,4 @@ function solucao(precos) {
                console.log ("NORMAL")      
            }
 
-}
+} 

@@ -10,4 +10,4 @@ function solucao(obras) {
     }
     console.log (obr)
     
-} 
+}  

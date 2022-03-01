@@ -1,11 +1,6 @@
-# cubos-academy-psel-ifood
-First exercise demanded from Cubos Academy Software Development course.
+# Desafios de lógica de programação em javascript.
 
-----------------------------------------------------------------------------------
-|  Hello my fellow developers!                                                   |
-|                                                                                |
-|  This is a repository that joins all the javascript challenges made by all     |
-| the challengers in order to be approved on "Sucesso Compartilhado" financial   |
-| program from Cubos Academy. I am participating as a scholarship holder in their|
-| Software Development course.                                                   | |                                                                                |
-----------------------------------------------------------------------------------
+
+<h2 style="color: yellow">Olá, querido visitante!</h2>
+  
+<b style="width: 300px">Neste repositório irei apresentar todos os desafios lógicos que já fiz. No momento, haverão apenas desafios feitos em javascript, porém, no futuro, haverá também desafios em diferentes linguagens.</b>

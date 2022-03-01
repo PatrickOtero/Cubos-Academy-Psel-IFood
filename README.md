@@ -1,6 +1,6 @@
-# Desafios de lógica de programação em javascript.
+# Desafios de lógica de programação.
 
 
-<h2 style="color: yellow">Olá, querido visitante!</h2>
+<h2>Olá, querido visitante!</h2>
   
-<b style="width: 300px">Neste repositório irei apresentar todos os desafios lógicos que já fiz. No momento, haverão apenas desafios feitos em javascript, porém, no futuro, haverá também desafios em diferentes linguagens.</b>
+<b>Neste repositório irei apresentar todos os desafios lógicos que já fiz. No momento, haverá apenas desafios feitos em javascript. No futuro, haverá também desafios em diferentes linguagens.</b>
